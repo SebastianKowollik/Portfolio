@@ -7,14 +7,14 @@ by Sebastian Kowollik
 
 <br/>
 
-* ## Webscraped data on vegetables from an [FDA website](https://www.fda.gov/food/food-labeling-nutrition/nutrition-information-raw-vegetables)
+* ## Webscraped data on vegetables from an [FDA website](https://www.fda.gov/food/food-labeling-nutrition/nutrition-information-raw-vegetables) to find the most nutritious vegetable
 ![](Images/Nutrition.png)
 
 <br/>
 
-* ## Exploratory Data Analysis to find the best vegetable
+* ## Exploratory Data Analysis to find the most nutritious vegetable
     * ### Cleaning the data
-    * ### Narrowing down of the vegetables
-    * ### Comparison of the top 5 vegetables
+    * ### Narrowing down the vegetables
+    * ### Comparison of the top 5 most nutrient dense vegetables
 ![](Images/Comparison.png)
 ## For further details and conclusion see [the Jupyter Notebook file](https://github.com/SebastianKowollik/Python-Webscraping-EDA-of-Vegetables)
